@@ -1,0 +1,7 @@
+.eventif
+.python-version
+*.sqlite3
+*.pyc
+__pycache__
+.env
+staticfiles
